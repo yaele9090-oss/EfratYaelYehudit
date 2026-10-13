@@ -1,0 +1,11 @@
+.card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
